@@ -1,0 +1,14 @@
+layout_spectrum: 0.6182337324135005
+typography_spectrum: 0.6345466377679259
+color:
+  brandStrength: 0.8675685005728155
+  lightness: 0.16797942970879376
+  saturation: 0.7152458087075502
+  rhythmicContrast: 0.8320371378213167
+  brandColors:
+    - '#6B0C22'
+    - '#D9042B'
+    - '#F4CB89'
+    - '#588C8C'
+    - '#011C26'
+name: bradrandom
